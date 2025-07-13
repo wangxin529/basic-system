@@ -1,5 +1,6 @@
 ## 1，介绍
 一个基于GIN和qiankun 为解决多前端而开发的微应用管理系统
+![img.png](doc/img_7.png)
 ### 持续开发ing
 
 ## 2. go version 
